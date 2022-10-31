@@ -1,0 +1,28 @@
+.card-group{
+    padding: 2rem 0.2rem;
+}
+.card-body{
+    background-color: #f3d9fa;
+    padding: 4rem 2rem;
+}
+.card-one{
+    background-color: #343a40;
+}
+.card-two{
+    background-color:#212529 ;
+}
+.card-three{
+    background-color: #343a40;
+}
+.card-title{
+    text-decoration: none;
+    color:whitesmoke;
+    text-align: center;
+    /* font-weight: bolder; */
+    margin-bottom: 4rem;
+}
+.progress-statement{
+    text-decoration: none;
+    margin-top: 2.5rem;
+    color: whitesmoke;
+}
